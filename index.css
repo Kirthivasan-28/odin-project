@@ -1,0 +1,45 @@
+.first-nav{
+    display:flex;
+    justify-content: space-around;
+}
+.logo img{
+    width: 225px;
+    height: 85px;
+}
+.side-nav {
+    display: flex;
+    gap: 70px;
+    margin:20px;
+}
+.side-nav a{
+    text-decoration: none;
+    color:black
+}
+.second-class{
+    display:flex;
+
+    justify-content: space-around;
+}
+.image-content img{
+    width: 500px;
+    height: 200px;
+}
+.img-content{
+    display:flex;
+    justify-content: center;
+    gap: 30px;
+}
+.third-class h1{
+    text-align: center;
+}
+.img-content img{
+    width: 200px;
+    height: 200px;
+}
+.first-image p{
+    word-wrap: break-word;
+}
+.final-class{
+    display: flex;
+    justify-content: space-between;
+}
